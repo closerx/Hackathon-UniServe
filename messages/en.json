@@ -1,0 +1,278 @@
+{
+    "Navigation": {
+        "home": "Home",
+        "solutions": "Solutions",
+        "pricing": "Pricing",
+        "developers": "Developers",
+        "about": "About",
+        "login": "Login",
+        "dashboard": "Dashboard",
+        "getStarted": "Get Started",
+        "enterprise": "Enterprise",
+        "company": "Company",
+        "docs": "Docs"
+    },
+    "Home": {
+        "title": "Unified Digital Gateway",
+        "subtitle": "Digital Empowerment",
+        "description": "A unified platform for all services, enabling easy and secure access to data and system integration.",
+        "features": "Features",
+        "featuresSubtitle": "Everything you need to integrate services into your applications",
+        "docsButton": "Documentation",
+        "stats": "Statistics",
+        "startNow": "Start Journey",
+        "trustedBadge": "Trusted by Official Entities",
+        "secureAuth": "Secure Authentication",
+        "secureAuthDesc": "Enterprise-grade security with OAuth 2.0 and API key authentication for all integrations.",
+        "realTimeData": "Real-Time Data",
+        "realTimeDataDesc": "Access live data with sub-second response times and 99.9% uptime guarantee.",
+        "unifiedGateway": "Unified Gateway",
+        "unifiedGatewayDesc": "One API to access 50+ services across all sectors.",
+        "services": "Services Available",
+        "activeDevelopers": "Active Developers",
+        "uptimeSLA": "Uptime SLA",
+        "developerSupport": "Developer Support",
+        "readyTitle": "Ready to Build the Future?",
+        "readySubtitle": "Join thousands of developers building innovative solutions.",
+        "getStartedFree": "Get Started Free"
+    },
+    "Auth": {
+        "loginTitle": "Sign In",
+        "registerTitle": "Create Account",
+        "email": "Email Address",
+        "password": "Password",
+        "name": "Full Name",
+        "company": "Company Name (Optional)",
+        "submit": "Submit",
+        "signIn": "Sign In",
+        "signingIn": "Signing in...",
+        "signUp": "Sign Up",
+        "signingUp": "Signing up...",
+        "haveAccount": "Already have an account? Sign in",
+        "noAccount": "Don't have an account? Sign up"
+    },
+    "Solutions": {
+        "title": "Sector Solutions",
+        "subtitle": "Integrated digital services for all vital sectors",
+        "sectors": {
+            "commerce": "Commerce",
+            "commerce_desc": "Verification of commercial registrations, business data, and commercial licenses.",
+            "justice": "Justice & Judiciary",
+            "justice_desc": "Verification of powers of attorney, lawyer licenses, and deeds.",
+            "health": "Health",
+            "health_desc": "Verification of health practitioners, medical licenses, and reports.",
+            "education": "Education",
+            "education_desc": "Verification of academic degrees and records.",
+            "hrsd": "Human Resources",
+            "hrsd_desc": "Employment data, Saudization, and establishment ranges.",
+            "traffic": "Traffic & Transport",
+            "traffic_desc": "Driving licenses, vehicles, and violations."
+        }
+    },
+    "Pricing": {
+        "title": "Pricing Plans",
+        "subtitle": "Choose the plan that fits your needs",
+        "free": "Free",
+        "basic": "Basic",
+        "pro": "Pro",
+        "enterprise": "Enterprise",
+        "monthlyPrice": "Monthly",
+        "requests": "requests",
+        "perMonth": "per month",
+        "selectPlan": "Select Plan",
+        "contactSales": "Contact Sales",
+        "features": {
+            "basicSupport": "Basic Support",
+            "prioritySupport": "Priority Support",
+            "dedicatedSupport": "24/7 Dedicated Support",
+            "basicApis": "Basic APIs",
+            "allApis": "All APIs",
+            "customApis": "Custom APIs"
+        }
+    },
+    "About": {
+        "title": "About Uniserve",
+        "subtitle": "Empowering digital transformation through a unified and secure gateway.",
+        "content": "Uniserve aims to facilitate access to data across various sectors securely and reliably. We strive to empower developers and companies to build innovative digital solutions relying on accurate and real-time data.",
+        "mission": "Our Mission",
+        "missionText": "Facilitate access to data and enable digital innovation.",
+        "vision": "Our Vision",
+        "visionText": "To be the leading unified digital gateway for services."
+    },
+    "Developers": {
+        "title": "Build the Future of Digital Services",
+        "subtitle": "Unified access to APIs, comprehensive documentation, and developer tools to build seamless digital experiences.",
+        "readDocs": "Read Documentation",
+        "getKey": "Get API Key",
+        "codeComment": "// Verify a Commercial Registration"
+    },
+    "Footer": {
+        "allRights": "© 2025 Uniserve. All rights reserved.",
+        "enterprise": "Enterprise",
+        "documentation": "Documentation",
+        "apiReference": "API Reference"
+    },
+    "Docs": {
+        "title": "API Documentation",
+        "subtitle": "Comprehensive guide to using our APIs",
+        "description": "Learn how to integrate our services into your applications using unified APIs.",
+        "gettingStarted": "Getting Started",
+        "gettingStartedDesc": "Learn how to set up your account and get your API key",
+        "authentication": "Authentication",
+        "authenticationDesc": "How to secure your requests using API keys",
+        "selectMinistry": "Select a sector to view documentation",
+        "baseUrl": "Base URL",
+        "endpoints": "Endpoints",
+        "endpoint": "Endpoint",
+        "method": "Method",
+        "description_label": "Description",
+        "requestExample": "Request Example",
+        "responseExample": "Response Example",
+        "parameters": "Parameters",
+        "parameter": "Parameter",
+        "type": "Type",
+        "required": "Required",
+        "optional": "Optional",
+        "errorCodes": "Error Codes",
+        "code": "Code",
+        "meaning": "Meaning",
+        "backToDocs": "Back to Docs",
+        "tryItOut": "Try it out",
+        "copyCode": "Copy Code",
+        "copied": "Copied!",
+        "tryItPlaceholder": "Enter a number to verify (e.g., 1234567890)",
+        "sendRequest": "Send Request",
+        "quickStart": {
+            "step1Title": "Create Account",
+            "step1Desc": "Sign up for a free account to get your credentials",
+            "step2Title": "Get API Key",
+            "step2Desc": "Copy your API key from the dashboard",
+            "step3Title": "Send First Request",
+            "step3Desc": "Add the key to your Authorization header",
+            "createAccount": "Create Free Account"
+        },
+        "sdk": {
+            "title": "Official SDKs",
+            "comingSoon": "Coming Soon",
+            "notAvailable": "Not available yet",
+            "jsDesc": "For Node.js and browser applications",
+            "pyDesc": "For Python applications",
+            "phpDesc": "For PHP applications"
+        },
+        "ministries": {
+            "commerce": {
+                "name": "Commerce",
+                "description": "APIs for verifying commercial registrations and business data",
+                "overview": "Commerce sector services allow you to verify commercial registrations, get business data, and verify commercial licenses.",
+                "endpoints": {
+                    "verify": {
+                        "name": "Verify Commercial Registration",
+                        "description": "Verify a commercial registration number and get business data",
+                        "params": {
+                            "crNumber": "Commercial Registration Number"
+                        }
+                    },
+                    "details": {
+                        "name": "Business Details",
+                        "description": "Get full details of a business",
+                        "params": {
+                            "crNumber": "Commercial Registration Number"
+                        }
+                    }
+                }
+            },
+            "justice": {
+                "name": "Justice & Judiciary",
+                "description": "APIs for verifying powers of attorney, deeds, and lawyer licenses",
+                "overview": "Justice sector services allow you to verify powers of attorney, property deeds, and lawyer licenses.",
+                "endpoints": {
+                    "poa": {
+                        "name": "Verify Power of Attorney",
+                        "description": "Verify a power of attorney document",
+                        "params": {
+                            "poaNumber": "Power of Attorney Number"
+                        }
+                    },
+                    "deed": {
+                        "name": "Verify Deed",
+                        "description": "Verify a property deed",
+                        "params": {
+                            "deedNumber": "Deed Number"
+                        }
+                    }
+                }
+            },
+            "health": {
+                "name": "Health",
+                "description": "APIs for verifying health practitioners and licenses",
+                "overview": "Health sector services allow you to verify health practitioner licenses and medical facility licenses.",
+                "endpoints": {
+                    "practitioner": {
+                        "name": "Verify Health Practitioner",
+                        "description": "Verify a health practitioner license",
+                        "params": {
+                            "licenseNumber": "License Number"
+                        }
+                    }
+                }
+            },
+            "education": {
+                "name": "Education",
+                "description": "APIs for verifying certificates and academic records",
+                "overview": "Education sector services allow you to verify academic certificates and records.",
+                "endpoints": {
+                    "certificate": {
+                        "name": "Verify Certificate",
+                        "description": "Verify an academic certificate",
+                        "params": {
+                            "certificateNumber": "Certificate Number"
+                        }
+                    }
+                }
+            },
+            "hrsd": {
+                "name": "Human Resources",
+                "description": "APIs for employment data and Nitaqat ranges",
+                "overview": "HRSD services allow you to query employment data, Saudization rates, and Nitaqat ranges.",
+                "endpoints": {
+                    "nitaqat": {
+                        "name": "Query Nitaqat Range",
+                        "description": "Get the Nitaqat range of an establishment",
+                        "params": {
+                            "establishmentNumber": "Establishment Number"
+                        }
+                    }
+                }
+            },
+            "traffic": {
+                "name": "Traffic & Transport",
+                "description": "APIs for verifying licenses, vehicles, and violations",
+                "overview": "Traffic services allow you to verify driving licenses, vehicle data, and query violations.",
+                "endpoints": {
+                    "license": {
+                        "name": "Verify Driving License",
+                        "description": "Verify a driving license",
+                        "params": {
+                            "licenseNumber": "License Number"
+                        }
+                    },
+                    "vehicle": {
+                        "name": "Query Vehicle",
+                        "description": "Get vehicle information",
+                        "params": {
+                            "plateNumber": "Plate Number"
+                        }
+                    }
+                }
+            }
+        },
+        "errors": {
+            "400": "Bad Request - Check your parameters",
+            "401": "Unauthorized - Invalid or expired API key",
+            "403": "Forbidden - You don't have access to this service",
+            "404": "Not Found - The requested resource doesn't exist",
+            "429": "Rate Limited - You've exceeded the request limit",
+            "500": "Server Error - An internal error occurred, try again later"
+        }
+    }
+}
