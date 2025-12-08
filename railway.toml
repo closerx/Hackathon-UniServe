@@ -5,6 +5,8 @@ buildCommand = "npm install && npm run build"
 [start]
 command = "npm run start"
 
-[deploy]
-restartPolicyType = "ON_FAILURE"
-restartPolicyMaxRetries = 10
+[variables]
+NODE_ENV = "production"
+
+[nixpacks]
+nodejs_version = "20.10.0"
